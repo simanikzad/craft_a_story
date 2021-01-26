@@ -1,5 +1,5 @@
 
-## Adult Sensus Income
+## Adult Census Income
 
 This dataset is provided for income prediction for individuals, it originally included income for all the countries, but I had it only show the US income, for better predicting the relationships. Our goal is to find any kind of correlation between individual income and other contributing factors that have been stated in our data. In my analysis I have tried to compare most of the important contributing factors to individual's income. Here are the ones that have been brought into visualizations:
 
